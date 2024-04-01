@@ -2,7 +2,7 @@
 
 ## Professor: Tim Rogers <br> TA: Christin Bose
 
-## Due on Sunday, April 16 2023 at 11:59 PM ET 
+## Due on Saturday, April 27 2024 at 11:59 PM ET 
 
 ## Implementing GPU prefetching
 
